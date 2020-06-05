@@ -15,3 +15,7 @@
     # Commands
         # Run the express server
             > npm run-script devStart
+
+# Source
+    # Build Node.js User Authentication - Password Login
+        https://www.youtube.com/watch?v=Ud5xKCYQTjM&list=PLZlA0Gpn_vH_uZs4vJMIhcinABSTUH2bY&index=5
